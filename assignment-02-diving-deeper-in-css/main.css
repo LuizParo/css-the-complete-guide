@@ -1,0 +1,17 @@
+div {
+    padding: 50px 10px 50px 10px;
+    border: 15px solid black;
+    margin: 0;
+    height: 300px;
+    width: 48%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+/* div:first-of-type {
+    visibility: hidden;
+} */
+
+div:last-of-type:hover {
+    background-color: aqua;
+}
