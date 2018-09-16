@@ -34,6 +34,16 @@ body {
     vertical-align: middle;
 }
 
+.plan__features {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.plan__feature {
+    margin: 8px 0;
+}
+
 .plan--highlighted {
     background-color: #19b84c;
     color: white;
